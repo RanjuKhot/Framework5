@@ -7,6 +7,7 @@ System.out.println("print");
 //push
 //welcome
 //welcome
+System.out.println("welcome");
 	}
 
 }
