@@ -8,6 +8,8 @@ System.out.println("print");
 //welcome
 //welcome
 System.out.println("welcome");
+//good morning
+//hello
 	}
 
 }
